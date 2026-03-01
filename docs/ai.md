@@ -46,11 +46,11 @@
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 /  Multiple Models / No Sign-Up
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / Grok 4.1 Fast / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/aP5ZmqCK4g)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini- 3 Flash / Multiple Chatbots / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
-* [NVIDIA NIM](https://build.nvidia.com/) - GLM-5 / Kimi K2.5 / No Sign-Up 
+* [NVIDIA NIM](https://build.nvidia.com/) - GLM-5 / Kimi K2.5 / No Sign-Up
+* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / Multiple Models / ≈1800 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Requires Sign-Up
 * [Groq](https://console.groq.com/playground) - Kimi K2-0905 / GPT-OSS-120B / Requires Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5 / Kimi K2.5 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / Multiple Models / [Discord](https://discord.gg/rdBN6TYf66)
 * [Duck AI](https://duck.ai/chat?q=DuckDuckGo+AI+Chat&duckai=1) - Claude Haiku 4.5 / GPT-5 mini / No Sign-Up
 
 ***
