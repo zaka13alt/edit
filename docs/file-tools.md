@@ -403,7 +403,7 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month (plan name).
+* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month (Plan Name).
 
 ***
 
