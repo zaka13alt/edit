@@ -242,6 +242,7 @@
 
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
+* [⁠VHS](https://github.com/charmbracelet/vhs) - Write Terminal GIFs as Code
 * [Charm](https://charm.sh/) - Add Backend to Terminal-Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
@@ -524,7 +525,7 @@
 ***
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
+* [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * [Gemini CLI](https://geminicli.com/), [2](https://google-gemini.github.io/gemini-cli/) - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
