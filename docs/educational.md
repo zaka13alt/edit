@@ -1512,7 +1512,7 @@
 
 # ► Exam Prep
 
-* 🌐 **[IBResources](https://ibresources.in/)** - International Baccalaureate Resources
+* 🌐 **[IBResources](https://ibresources.cc/)** - International Baccalaureate Resources
 * [FreeOnlineTest](https://www.freeonlinetest.in/), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
